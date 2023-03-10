@@ -18,10 +18,13 @@ The executive team has tasked you with generating all of the tables and figures 
 ## Technologies
 
 For this project we used python 3.8.8 and one libraries: 
-Pandas
-matplotlib
-scipy.stats
-sklearn
+-Pandas
+
+-matplotlib
+
+-scipy.stats
+
+-sklearn
 
 ---
 
